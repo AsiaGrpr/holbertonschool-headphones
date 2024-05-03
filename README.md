@@ -2,7 +2,7 @@
 
 # Implement a design from scratch
 
-![image](./asset/images/logo_headphones%20grey.png)
+![image](./images/logo_headphones%20grey.png)
 
 </div>
 
