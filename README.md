@@ -17,7 +17,7 @@ This webpage has been designed by Nicolas Philippot, UI/UX designer, you can fin
 Here the final result:
 
 
-![image](./asset/images/visual%20webdesign%20responsive.jpeg)
+![image](./images/visual%20webdesign%20responsive.jpeg)
 
 
 ---
